@@ -2,4 +2,4 @@
 
 Challenges challenges = new Challenges();
 
-// Console.WriteLine(challenges.ArrayOfMultiples(7, 5));
+Console.WriteLine(challenges.IsSmooth("Marta appreciated deep perpendicular right trapezoids"));
