@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using challenges_csharp;
 
-Console.WriteLine("Hello World");
+Challenges challenges = new Challenges();
+
+// Console.WriteLine(challenges.ArrayOfMultiples(7, 5));
